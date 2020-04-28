@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Limberger_Buchbeispiel
 {
-    class Buch
+    class InvalidISBNException
     {
-
     }
 }
